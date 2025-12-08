@@ -8,5 +8,3 @@ Hi, I’m **Serhii** 👋<br>I’m a Software Engineering student at Centria Uni
 
 ---
 [![](https://visitcount.itsvg.in/api?id=im-serhii&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
